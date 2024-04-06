@@ -2,23 +2,27 @@
 <hr>
 I'm a student passionate about programming. Welcome to my GitHub profile! Here, you'll find a glimpse of my journey in the world of coding, tinkering, and creating.
 <br>
+<hr>
 
 **What I'm Currently Into**
+
+- 📚 Learning new concepts in web development, database management and memory optimization <br>
+- 🔭 I’m currently working on web projects including ASP.NET CORE <br>
+- 🌱 I’m currently learning C#, SQL, HTML, CSS, JS <br>
+- ⚡ Planning to learn: React JS, Node.js, AI (Machine Learning) <br>
+- 😄 Fun fact: Love projects with databases <br>
+
 <hr>
-- 📚 Learning new concepts in web development, database management and memory optimization
-- 🔭 I’m currently working on web projects including ASP.NET CORE
-- 🌱 I’m currently learning C#, SQL, HTML, CSS, JS
-- ⚡ Planning to learn: React JS, Node.js, AI(Machine Learning)
-- 😄 Fun fact: Love projects with databases
 
 🚀 **Internships and courses:**
-<hr>
+
 - Nemeteschek Speed IT Up
 - IT Career
+<hr>
 
 **Connect with Me**
-<hr>
-([Aneliya Lyavova](https://www.linkedin.com/in/aneliya-lyavova/))
+<br>
+LinkedIn: [Aneliya Lyavova](https://www.linkedin.com/in/aneliya-lyavova/)
 <br>
 Feel free to reach out if you're interested in collaborating, sharing ideas, or just geeking out about tech!
 <br>
@@ -37,8 +41,7 @@ Here are some of the projects I've been working on:
 <br>
 Explore them and let me know what you think! -->
 
-**Thanks for Visiting!**
-Thanks for stopping by! Don't forget to ⭐️ my repositories if you find them interesting. Let's build something awesome together! 🚀
+
 
 
 
