@@ -1,5 +1,5 @@
 Hello, I'm Aneliya 👋
-[Include a cool image or GIF here if you like]
+<hr>
 
 I'm a student passionate about programming. Welcome to my GitHub profile! Here, you'll find a glimpse of my journey in the world of coding, tinkering, and creating.
 
@@ -9,9 +9,8 @@ I'm a junior software developer with a knack for [Your Interests or Specializati
 What I'm Currently Into
 💻 Exploring the wonders of Web apps: ASP.NET CORE
 📚 Learning new concepts in web development, database management and memory optimization
-🚀 Building exciting projects with [Your Favorite Tech Stack]
 
-Internships and courses:
+🚀 Internships and courses:
 - Nemeteschek Speed IT Up
 - IT Career
 
