@@ -2,6 +2,7 @@
 <hr>
 I'm a student passionate about programming. Welcome to my GitHub profile! Here, you'll find a glimpse of my journey in the world of coding, tinkering, and creating.
 <br>
+
 **What I'm Currently Into**
 - 📚 Learning new concepts in web development, database management and memory optimization
 - 🔭 I’m currently working on web projects including ASP.NET CORE
