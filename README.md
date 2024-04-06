@@ -4,6 +4,7 @@ I'm a student passionate about programming. Welcome to my GitHub profile! Here, 
 <br>
 
 **What I'm Currently Into**
+<hr>
 - 📚 Learning new concepts in web development, database management and memory optimization
 - 🔭 I’m currently working on web projects including ASP.NET CORE
 - 🌱 I’m currently learning C#, SQL, HTML, CSS, JS
@@ -11,11 +12,13 @@ I'm a student passionate about programming. Welcome to my GitHub profile! Here, 
 - 😄 Fun fact: Love projects with databases
 
 🚀 **Internships and courses:**
+<hr>
 - Nemeteschek Speed IT Up
 - IT Career
 
 **Connect with Me**
-[LinkedIn]([Aneliya Lyavova](https://www.linkedin.com/in/aneliya-lyavova/))
+<hr>
+([Aneliya Lyavova](https://www.linkedin.com/in/aneliya-lyavova/))
 <br>
 Feel free to reach out if you're interested in collaborating, sharing ideas, or just geeking out about tech!
 <br>
