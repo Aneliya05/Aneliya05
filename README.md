@@ -15,7 +15,7 @@ I'm a student passionate about programming. Welcome to my GitHub profile! Here, 
 <hr>
 
 <h3 align="left">🚀 Internships and courses:</h3> 
- <a href="https://careers.nemetschek.bg/speeditup"> <img align="left" src="https://scontent.fsof10-1.fna.fbcdn.net/v/t39.30808-6/310440135_636776454631127_7410840772972626095_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=yatnT3mPGQQAb6E8DBI&_nc_ht=scontent.fsof10-1.fna&oh=00_AfBmWjRUHL7ITE6_1GIdNlYyvCJVjkF6cTws1zFnSu8e-A&oe=6616D4B4" alt="Nemetschek" target="blank" width="50" height="50"/> </a>
+ <a href="https://www.nemetschek.bg/images/nemetschek-white.svg"> <img align="left" src="https://scontent.fsof10-1.fna.fbcdn.net/v/t39.30808-6/310440135_636776454631127_7410840772972626095_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=yatnT3mPGQQAb6E8DBI&_nc_ht=scontent.fsof10-1.fna&oh=00_AfBmWjRUHL7ITE6_1GIdNlYyvCJVjkF6cTws1zFnSu8e-A&oe=6616D4B4" alt="Nemetschek" target="blank" width="50" height="50"/> </a>
  <img src="https://it-kariera.mon.bg/e-learning/pluginfile.php/2/course/section/1/logo%201000x1000.png" width="50" height="50"/>
 <span>- Nemetschek Speed IT Up</span>
 <br>
