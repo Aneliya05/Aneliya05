@@ -15,8 +15,8 @@ I'm a student passionate about programming. Welcome to my GitHub profile! Here, 
 <hr>
 
 <h3 align="left">🚀 Internships and courses:</h3> 
- <img src="https://www.nemetschek.bg/images/nemetschek-white.svg" align="left" alt="Nemetschek" target="blank" width="50" height="50"/> </img>
- <img src="https://it-kariera.mon.bg/e-learning/pluginfile.php/2/course/section/1/logo%201000x1000.png" width="50" height="50"/>
+ <img src="https://www.nemetschek.bg/images/nemetschek-white.svg" align="left" alt="Nemetschek" target="blank" width="100" height="100"/> </img>
+ <img src="https://it-kariera.mon.bg/e-learning/pluginfile.php/2/course/section/1/logo%201000x1000.png" width="100" height="100"/>
 <span>- Nemetschek Speed IT Up</span>
 <br>
 <span>- IT Career</span>
