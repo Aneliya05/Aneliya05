@@ -43,6 +43,7 @@ I'm a student passionate about programming. Welcome to my GitHub profile! Here, 
 <a href="https://edusoft.fmi.uni-sofia.bg/" target="_blank">
  <img src="https://www.codingburgas.bg/wp-content/uploads/2024/04/LOGO-transperant-1.png" align="left" alt="НОИТ" width="110px" height="100px"/>
 </a>
+&nbsp; &nbsp; &nbsp; &nbsp; 
 <a href="http://www.math.bas.bg/omi/hssimi/">
  <img src="https://math.bas.bg/wp-content/uploads/2018/03/UchIMI-logo-no_text-color-transparent.png" width="180px" height="100px"/>
 </a>
