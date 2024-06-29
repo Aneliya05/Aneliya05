@@ -28,30 +28,35 @@ I'm a student passionate about programming. Welcome to my GitHub profile! Here, 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRUY7ezsltut22xxG95CP7dEcsRPp48UNFkA&s" width="100" height="100"/>
  </a>
  <br>
-
+ <br>
+ <ul>
+ <li>Nemetschek Speed IT Up</li>
+ <li>IT Career (A course developed by the Ministry of Education in collaboration with SoftUni)</li>
+ <li>Blacatz Academy</li>
+</ul>
   
 <br>
 <hr>
 <h3 align="left">🧑‍💻 Participant in:</h3> 
-&nbsp; The IT olympiad &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; AMTIS Devin Competition
-<br>
+
 <br>
 <a href="https://edusoft.fmi.uni-sofia.bg/" target="_blank">
- <img src="https://www.codingburgas.bg/wp-content/uploads/2024/04/LOGO-transperant-1.png" align="left" alt="НОИТ" width="100px" height="90px"/>
+ <img src="https://www.codingburgas.bg/wp-content/uploads/2024/04/LOGO-transperant-1.png" align="left" alt="НОИТ" width="110px" height="100px"/>
+</a>
+<a href="http://www.math.bas.bg/omi/hssimi/">
+ <img src="https://math.bas.bg/wp-content/uploads/2018/03/UchIMI-logo-no_text-color-transparent.png" width="180px" height="100px"/>
 </a>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 <a href="https://az-moga.bg/" target="_blank">
  <img src="https://az-moga.bg/cdn/up/2024/fb-amtis.png" width="200" height="100"/>
 </a>
-
-&nbsp; &nbsp; &nbsp; &nbsp;
-НОИТ 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; 
-Аз мога тук и сега
 <br>
-
-
-
+<br>
+<ul>
+ <li>The National IT olympiad (НОИТ)</li>
+ <li>The 24th Student Conference at The High School Student Institute of Mathematics and Informatics (24-та конференция към УчИМИ)
+ <li>AMTIS Competition in Devin (Аз мога тук и сега)</li>
+</ul>
 
 <br>                   
 <hr>
