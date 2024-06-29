@@ -15,11 +15,42 @@ I'm a student passionate about programming. Welcome to my GitHub profile! Here, 
 <hr>
 
 <h3 align="left">🚀 Internships and courses:</h3> 
- <img src="https://www.nemetschek.bg/images/nemetschek-white.svg" align="left" alt="Nemetschek" target="blank" width="100" height="100"/> </img>
- <img src="https://it-kariera.mon.bg/e-learning/pluginfile.php/2/course/section/1/logo%201000x1000.png" width="100" height="100"/>
-<a href="https://www.nemetschek.bg/" style="color:white; text-decoration:none;">Nemetschek Speed IT Up</a>
+ <a href="https://www.nemetschek.bg/" target="_blank">
+   <img src="https://www.nemetschek.bg/images/nemetschek-white.svg" align="left" alt="Nemetschek" target="_blank" width="120" height="120"/> </img>
+ </a>
+ <br>
+   &nbsp; &nbsp; &nbsp; &nbsp;
+ <a href="https://it-kariera.mon.bg/e-learning/">
+   <img src="https://www.mon.bg/nfs/2019/10/logo-it-1.jpg" alt="IT Career" width="200" height="100"/>
+ </a> 
+   &nbsp; &nbsp; &nbsp; &nbsp;
+ <a href="https://blacatzacademy.com/">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRUY7ezsltut22xxG95CP7dEcsRPp48UNFkA&s" width="100" height="100"/>
+ </a>
+ <br>
+
+  
 <br>
-<a href="https://it-kariera.mon.bg/e-learning/?redirect=0" style="color:white; text-decoration:none;">IT Career</a>
+<hr>
+<h3 align="left">🧑‍💻 Participant in:</h3> 
+The IT olympiad &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; AMTIS Devin Competition
+<br>
+<br>
+<a href="https://edusoft.fmi.uni-sofia.bg/" target="_blank">
+ <img src="https://www.codingburgas.bg/wp-content/uploads/2024/04/LOGO-transperant-1.png" align="left" alt="НОИТ" width="100px" height="90px"/>
+</a>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+<a href="https://az-moga.bg/" target="_blank">
+ <img src="https://az-moga.bg/cdn/up/2024/fb-amtis.png" width="200" height="100"/>
+</a>
+
+&nbsp; &nbsp; &nbsp;
+НОИТ 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+Аз мога тук и сега
+<br>
+
+
 
 
 <br>                   
@@ -27,7 +58,7 @@ I'm a student passionate about programming. Welcome to my GitHub profile! Here, 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aneliya-lyavova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aneliya-lyavova" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aneliya-lyavova" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aneliya-lyavova" height="30" width="40" /></a>
 <br>
 <br>
 Feel free to reach out if you're interested in collaborating, sharing ideas, or just geeking out about tech!
