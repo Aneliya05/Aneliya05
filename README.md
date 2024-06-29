@@ -33,7 +33,7 @@ I'm a student passionate about programming. Welcome to my GitHub profile! Here, 
 <br>
 <hr>
 <h3 align="left">🧑‍💻 Participant in:</h3> 
-The IT olympiad &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; AMTIS Devin Competition
+&nbsp; The IT olympiad &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; AMTIS Devin Competition
 <br>
 <br>
 <a href="https://edusoft.fmi.uni-sofia.bg/" target="_blank">
