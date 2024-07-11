@@ -6,7 +6,7 @@ I'm a student passionate about programming. Welcome to my GitHub profile! Here, 
 
 **What I'm Currently Into**
 
-- 📚 Learning new concepts in web development, database management and memory optimization <br>
+- 📚 Learning new concepts in web development, web design database management and memory optimization <br>
 - 🔭 I’m currently working on web projects including ASP.NET CORE <br>
 - 🌱 I’m currently learning C#, SQL, HTML, CSS, JS <br>
 - ⚡ Planning to learn: React JS, Node.js, AI (Machine Learning) <br>
