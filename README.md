@@ -21,16 +21,16 @@ I'm a student passionate about programming. Welcome to my GitHub profile! Here, 
  <br>
    &nbsp; &nbsp; &nbsp; &nbsp;
  <a href="https://it-kariera.mon.bg/e-learning/">
-   <img src="https://www.mon.bg/nfs/2019/10/logo-it-1.jpg" alt="IT Career" width="200" height="100"/>
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyGOBYTwAdY6zbLnbk5Zo3Wn6jWKfeN5wBZA&s" alt="IT Career" width="200" height="100"/>
  </a> 
    &nbsp; &nbsp; &nbsp; &nbsp;
  <a href="https://blacatzacademy.com/">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRUY7ezsltut22xxG95CP7dEcsRPp48UNFkA&s" width="100" height="100"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRUY7ezsltut22xxG95CP7dEcsRPp48UNFkA&s" alt="Blacatz Academy" width="100" height="100"/>
  </a>
  <br>
  <br>
  <ul>
- <li>Nemetschek Speed IT Up</li>
+ <li>Nemetschek Speed IT Up Workshop</li>
  <li>IT Career (A course developed by the Ministry of Education in collaboration with SoftUni)</li>
  <li>Blacatz Academy</li>
 </ul>
