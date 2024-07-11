@@ -16,13 +16,11 @@ I'm a student passionate about programming. Welcome to my GitHub profile! Here, 
 
 <h3 align="left">🚀 Internships and courses:</h3> 
  <a href="https://www.nemetschek.bg/" target="_blank">
-   <img src="https://www.nemetschek.bg/images/nemetschek-white.svg" align="left" alt="Nemetschek" target="_blank" width="120" height="120"/> </img>
+   <img src="https://www.nemetschek.bg/images/nemetschek-white.svg" align="left" alt="Nemetschek" target="_blank" width="120" height="120"/>
  </a>
  <br>
    &nbsp; &nbsp; &nbsp; &nbsp;
- <a href="https://it-kariera.mon.bg/e-learning/">
-   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyGOBYTwAdY6zbLnbk5Zo3Wn6jWKfeN5wBZA&s" alt="IT Career" width="200" height="100"/>
- </a> 
+ <a href="https://it-kariera.mon.bg/e-learning/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyGOBYTwAdY6zbLnbk5Zo3Wn6jWKfeN5wBZA&s" alt="IT Career" width="200" height="100"/></a> 
    &nbsp; &nbsp; &nbsp; &nbsp;
  <a href="https://blacatzacademy.com/">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRUY7ezsltut22xxG95CP7dEcsRPp48UNFkA&s" alt="Blacatz Academy" width="100" height="100"/>
@@ -41,12 +39,10 @@ I'm a student passionate about programming. Welcome to my GitHub profile! Here, 
 
 <br>
 <a href="https://edusoft.fmi.uni-sofia.bg/" target="_blank">
- <img src="https://www.codingburgas.bg/wp-content/uploads/2024/04/LOGO-transperant-1.png" align="left" alt="НОИТ" width="110px" height="100px"/>
+<img src="https://www.codingburgas.bg/wp-content/uploads/2024/04/LOGO-transperant-1.png" align="left" alt="НОИТ" width="110px" height="100px"/>
 </a>
 &nbsp; &nbsp; &nbsp; &nbsp; 
-<a href="http://www.math.bas.bg/omi/hssimi/">
- <img src="https://math.bas.bg/wp-content/uploads/2018/03/UchIMI-logo-no_text-color-transparent.png" width="180px" height="100px"/>
-</a>
+<a href="http://www.math.bas.bg/omi/hssimi/"><img src="https://math.bas.bg/wp-content/uploads/2018/03/UchIMI-logo-no_text-color-transparent.png" width="180px" height="100px"/></a>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 <a href="https://az-moga.bg/" target="_blank">
  <img src="https://az-moga.bg/cdn/up/2024/fb-amtis.png" width="200" height="100"/>
