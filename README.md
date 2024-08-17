@@ -39,10 +39,11 @@ I'm a student passionate about programming. Welcome to my GitHub profile! Here, 
 
 <br>
 <a href="https://edusoft.fmi.uni-sofia.bg/" target="_blank">
-<img src="https://www.codingburgas.bg/wp-content/uploads/2024/04/LOGO-transperant-1.png" align="left" alt="НОИТ" width="110px" height="100px"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRdmYH9I0Db2zDuJ5s9jrf5ez-_erE9gDsBg&s" align="left" alt="НОИТ" width="200px" height="100px"/>
 </a>
 &nbsp; &nbsp; &nbsp; &nbsp; 
-<a href="http://www.math.bas.bg/omi/hssimi/"><img src="https://math.bas.bg/wp-content/uploads/2018/03/UchIMI-logo-no_text-color-transparent.png" width="180px" height="100px"/></a>
+<a href="http://www.math.bas.bg/omi/hssimi/">
+ <img src="https://math.bas.bg/wp-content/uploads/2018/03/UchIMI-logo-no_text-color-transparent.png" width="180px" height="100px"/></a>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 <a href="https://az-moga.bg/" target="_blank">
  <img src="https://az-moga.bg/cdn/up/2024/fb-amtis.png" width="200" height="100"/>
