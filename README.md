@@ -8,9 +8,9 @@ I'm a student passionate about programming. Welcome to my GitHub profile! Here, 
 
 - 📚 Learning new concepts in web development, web design database management and memory optimization <br>
 - 🔭 I’m currently working on web projects including ASP.NET CORE <br>
-- 🌱 I’m currently learning C#, SQL, HTML, CSS, JS <br>
-- ⚡ Planning to learn: React JS, Node.js, AI (Machine Learning) <br>
-- 😄 Fun fact: Love projects with databases <br>
+- 🌱 I’m currently learning C#, C++, Java, SQL, HTML, CSS, JS <br>
+- ⚡ Planning to learn: JavaScript, React JS, Node.js, AI (Machine Learning) <br>
+- 😄 Fun fact: I love projects with databases <br>
 
 <hr>
 
